@@ -1,4 +1,4 @@
-# fir_se_try_karte_hai
+# ML based autism detector
 
 Step 1: collect organize and clean datasets from different sources
 Here we were able to collect data from 4 different sources 
